@@ -1,0 +1,1 @@
+python tts_batch.py "山峁峁上看得远，你在张家畔。叫一声妹子你听不见，哥哥心里实在想念。" tts_out/clip1.wav

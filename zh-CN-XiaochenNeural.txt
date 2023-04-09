@@ -1,0 +1,27 @@
+zh-CN-XiaochenNeural（女）
+zh-CN-XiaohanNeural（女）
+zh-CN-XiaomengNeural（女）
+zh-CN-XiaomoNeural（女）
+zh-CN-XiaoqiuNeural（女）
+zh-CN-XiaoruiNeural（女）
+zh-CN-XiaoshuangNeural（女性、儿童）
+zh-CN-XiaoxiaoNeural（女）
+zh-CN-XiaoxuanNeural（女）
+zh-CN-XiaoyanNeural（女）
+zh-CN-XiaoyiNeural（女）
+zh-CN-XiaoyouNeural（女性、儿童）
+zh-CN-XiaozhenNeural（女）
+zh-CN-YunfengNeural（男）
+zh-CN-YunhaoNeural（男）
+zh-CN-YunjianNeural（男）
+zh-CN-YunxiaNeural（男）
+zh-CN-YunxiNeural（男）
+zh-CN-YunyangNeural（男）
+zh-CN-YunyeNeural（男）
+zh-CN-YunzeNeural（男）
+
+zh-CN-henan	中文（中原官话河南，简体）	zh-CN-henan-YundengNeural2（男）
+zh-CN-liaoning	中文（东北官话，简体）	zh-CN-liaoning-XiaobeiNeural1，2（女）
+zh-CN-shaanxi	中文（中原官话陕西，简体）	zh-CN-shaanxi-XiaoniNeural1，2（女）
+zh-CN-shandong	中文（冀鲁官话，简体）	zh-CN-shandong-YunxiangNeural2（男）
+zh-CN-sichuan	中文（西南普通话，简体）	zh-CN-sichuan-YunxiNeural1，2（男）
